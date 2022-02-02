@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 final
-
-=======
 branch1
->>>>>>> branch1
+
