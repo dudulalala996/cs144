@@ -1,3 +1,8 @@
 hello github!
 branch1!
+<<<<<<< HEAD
 branch1!
+=======
+branch1branch1!
+branch1branch1!
+>>>>>>> 3612ded0d11ce3181771cc55829e198e953c09fb
